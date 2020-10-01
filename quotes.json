@@ -190,10 +190,17 @@
     "quote": "The world is your oyster.",
     "speaker": "Shakespeare"
   },
+
+  { 
+  "quote" : "Never waste time, because time is the only thing that you can not have it again after that time",
+  "speaker" : "Sahil Mandoliya"
+  },
+
   {
     "quote": "You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
     "speaker": "Steve Jobs"
   },
+  
   {
     "quote": "I'd rather be hated for who I am than loved for who I am not.",
     "speaker": "Kurt Cobain"
